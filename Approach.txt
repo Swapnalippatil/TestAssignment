@@ -1,0 +1,14 @@
+Approach:
+1. I have started with requirement analyasis
+2. Preapred the test scenarios
+3. Started test script preparation modulewise like Register new user, Search 	   product, Add products to cart, Cart verification for added products.
+4. Prepared feaures file for test scenarios 
+5. Preapred step definitions for every step
+6. Executed scenrios successfuly.
+
+Issue faced:
+1. Synchronization issue: used webdriverwait wherever required
+2. Jenkins: Integration git repository code on Jenkins for selenium tests. Tooks help from internet.
+
+Improvement: 
+I have not done setup for headless browser on jenkin that can be improved
